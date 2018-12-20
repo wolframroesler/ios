@@ -110,7 +110,6 @@
 		F72D0FFF210B6638009C96B7 /* FirebaseNanoPB.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F72D0FF6210B6638009C96B7 /* FirebaseNanoPB.framework */; };
 		F72D1000210B6638009C96B7 /* FirebaseInstanceID.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F72D0FF7210B6638009C96B7 /* FirebaseInstanceID.framework */; };
 		F72D1001210B6638009C96B7 /* FirebaseCoreDiagnostics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F72D0FF8210B6638009C96B7 /* FirebaseCoreDiagnostics.framework */; };
-		F72D1003210B67CE009C96B7 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = F72D1002210B67CE009C96B7 /* GoogleService-Info.plist */; };
 		F72D1007210B6882009C96B7 /* NCPushNotificationEncryption.m in Sources */ = {isa = PBXBuildFile; fileRef = F72D1005210B6882009C96B7 /* NCPushNotificationEncryption.m */; };
 		F72D100F210B6B17009C96B7 /* NotificationService.swift in Sources */ = {isa = PBXBuildFile; fileRef = F72D100E210B6B17009C96B7 /* NotificationService.swift */; };
 		F72D1013210B6B17009C96B7 /* Notification Service Extension.appex in Embed App Extensions */ = {isa = PBXBuildFile; fileRef = F72D100C210B6B16009C96B7 /* Notification Service Extension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
@@ -735,7 +734,6 @@
 		F72D0FF6210B6638009C96B7 /* FirebaseNanoPB.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FirebaseNanoPB.framework; sourceTree = "<group>"; };
 		F72D0FF7210B6638009C96B7 /* FirebaseInstanceID.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FirebaseInstanceID.framework; sourceTree = "<group>"; };
 		F72D0FF8210B6638009C96B7 /* FirebaseCoreDiagnostics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = FirebaseCoreDiagnostics.framework; sourceTree = "<group>"; };
-		F72D1002210B67CE009C96B7 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = SOURCE_ROOT; };
 		F72D1004210B6835009C96B7 /* Firebase.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Firebase.h; sourceTree = "<group>"; };
 		F72D1005210B6882009C96B7 /* NCPushNotificationEncryption.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = NCPushNotificationEncryption.m; sourceTree = "<group>"; };
 		F72D1006210B6882009C96B7 /* NCPushNotificationEncryption.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = NCPushNotificationEncryption.h; sourceTree = "<group>"; };
@@ -2526,7 +2524,6 @@
 				F7C742D31E7BD36600D9C973 /* Supporting Files */,
 				F710E80C1EF95C9C00DC2427 /* Intro */,
 				F700222B1EC479840080073F /* Custom.xcassets */,
-				F72D1002210B67CE009C96B7 /* GoogleService-Info.plist */,
 				F73CB5771ED46807005F2A5A /* NCBridgeSwift.h */,
 				F76B3CCD1EAE01BD00921AC9 /* NCBrand.swift */,
 				F76F23331ED4603700C40023 /* LaunchScreen.xib */,
@@ -3246,7 +3243,6 @@
 				F76F23341ED4603700C40023 /* LaunchScreen.xib in Resources */,
 				F7C525A21E3B6DA800FFE02C /* CCNotification.storyboard in Resources */,
 				F7F54CEB1E5B14C700E19C62 /* ImageSelectedOn.png in Resources */,
-				F72D1003210B67CE009C96B7 /* GoogleService-Info.plist in Resources */,
 				F762CB951EACB84400B38484 /* icon-error.png in Resources */,
 				F7F54CF01E5B14C700E19C62 /* ImageSelectedSmallOff@3x.png in Resources */,
 				F73B4EF01F470D9100BBEE4B /* CMakeLists.txt in Resources */,
